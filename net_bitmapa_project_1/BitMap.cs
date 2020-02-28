@@ -42,6 +42,8 @@ namespace net_bitmapa_project_1
         public int BM_ByteColorUsed { get; private set; }    //4B-biClrUsed
         public int BM_NeededByteToColor { get; private set; }    //4B-biClrImportant
 
+        //poznamka pro overeni
+
     }
 
 
